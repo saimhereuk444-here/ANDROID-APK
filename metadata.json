@@ -1,0 +1,6 @@
+{
+  "name": "SH Skin Tool",
+  "description": "Gaming customization utility by SAIM TEAM featuring dynamic cloud sync, package management, and authorized storage integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
